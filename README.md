@@ -1,3 +1,8 @@
+# demo :
+
+https://www.youtube.com/watch?v=rMEkQ3dRvxI
+
+
 Download pocketbase: https://pocketbase.io/docs/
 
 
